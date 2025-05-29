@@ -1,6 +1,6 @@
 # Shuaib Khalid
 
-**Lead Software Developer**  
+**Full Stack Software Developer**  
 📧 [khalidshuaib07@gmail.com](mailto:khalidshuaib07@gmail.com)
 
 ---
