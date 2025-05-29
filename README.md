@@ -11,15 +11,23 @@ I'm a passionate and results-driven software engineer with **5+ years of experie
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-**Frontend**: Angular, ReactJS, RxJS, NgRx, Redux, JavaScript, TypeScript  
-**Backend**: Node.js, Nest.js, Loopback, Express.js, REST APIs  
-**Database**: SQL, PostgreSQL, MySQL, MongoDB, MariaDB  
-**DevOps & Tools**: GitHub, GitLab, Bitbucket, Docker, Firebase, AWS S3
-**Project Management**: Jira, Trello, Kanban  
-**Testing & QA**: SonarCloud, Cypress, Karma, Jasmine, Jest
-**Cloud & Integrations**: Twilio, SendGrid, Stripe, OAuth, Highcharts  
+### Frontend
+- **Languages & Frameworks**: JavaScript, TypeScript, Angular, React, Vue.js, Next.js, Ionic, Capacitor, Cordova
+- **Styling & UI**: Sass, LESS, SCSS, Bootstrap, jQuery, PrimeNG, Material Design, Ant Design, OwlJS
+- **State Management**: Redux, NgRx, RxJS
+- **Visualization & Mapping**: Chart.js, Highcharts, Google Charts, Google Maps, OpenLayers
+- **Design Tools**: Adobe Illustrator, Figma, Adobe XD
+- **Build Tools**: ESLint, Gulp, Webpack, Jest
+
+### Backend
+- **Languages & Frameworks**: Node.js, NestJS, LoopBack, Express.js
+- **Database & ORM**: Mongoose, MySQL Connector, Prisma
+- **Architecture & Tools**: Microservices, WebRTC, Socket.io, Cron Jobs, GraphQL, Docker, AWS, Firebase, Redis
+
+### Databases
+- MongoDB, PostgreSQL, MySQL, MariaDB, SQL Server
 
 ---
 
